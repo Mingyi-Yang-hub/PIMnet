@@ -16,7 +16,7 @@ Please compress all video sequences by H.265/HEVC reference software HM16.5 unde
 
 
 # Code
-The code will be release soon.
+The code will be released soon.
 
 
 # Quantitative performance evaluation
