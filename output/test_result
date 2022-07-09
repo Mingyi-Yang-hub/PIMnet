@@ -1,0 +1,39 @@
+```
+BasketballDrill_832x480_500.yuv
+ave ori [31.591] dB, enh [32.511] dB, delta [0.921] dB, aver_ssim=0.01657
+BasketballDrive_1920x1080_500.yuv
+ave ori [33.227] dB, enh [34.222] dB, delta [0.995] dB, aver_ssim=0.01545
+BasketballPass_416x240_500.yuv
+ave ori [30.482] dB, enh [31.737] dB, delta [1.255] dB, aver_ssim=0.02464
+BlowingBubbles_416x240_500.yuv
+ave ori [27.794] dB, enh [28.537] dB, delta [0.743] dB, aver_ssim=0.02235
+BQMall_832x480_600.yuv
+ave ori [31.297] dB, enh [32.411] dB, delta [1.114] dB, aver_ssim=0.02040
+BQSquare_416x240_600.yuv
+ave ori [28.270] dB, enh [29.191] dB, delta [0.921] dB, aver_ssim=0.01149
+BQTerrace_1920x1080_600.yuv
+ave ori [31.247] dB, enh [31.850] dB, delta [0.603] dB, aver_ssim=0.01006
+Cactus_1920x1080_500.yuv
+ave ori [32.207] dB, enh [33.066] dB, delta [0.858] dB, aver_ssim=0.01552
+FourPeople_1280x720_600.yuv
+ave ori [34.589] dB, enh [35.612] dB, delta [1.023] dB, aver_ssim=0.01290
+Johnny_1280x720_600.yuv
+ave ori [36.375] dB, enh [37.283] dB, delta [0.908] dB, aver_ssim=0.01056
+Kimono_1920x1080_240.yuv
+ave ori [34.411] dB, enh [35.579] dB, delta [1.168] dB, aver_ssim=0.02076
+KristenAndSara_1280x720_600.yuv
+ave ori [35.887] dB, enh [36.942] dB, delta [1.056] dB, aver_ssim=0.01114
+ParkScene_1920x1080_240.yuv
+ave ori [31.583] dB, enh [32.296] dB, delta [0.713] dB, aver_ssim=0.01749
+PartyScene_832x480_500.yuv
+ave ori [27.802] dB, enh [28.486] dB, delta [0.684] dB, aver_ssim=0.01872
+PeopleOnStreet_2560x1600_150.yuv
+ave ori [31.388] dB, enh [32.899] dB, delta [1.511] dB, aver_ssim=0.02335
+RaceHorses_416x240_300.yuv
+ave ori [29.320] dB, enh [30.414] dB, delta [1.094] dB, aver_ssim=0.02628
+RaceHorses_832x480_300.yuv
+ave ori [30.094] dB, enh [30.976] dB, delta [0.882] dB, aver_ssim=0.02089
+Traffic_2560x1600_150.yuv
+ave ori [33.176] dB, enh [34.007] dB, delta [0.831] dB, aver_ssim=0.01285
+aver_inc_psnr [0.960] dB
+```
