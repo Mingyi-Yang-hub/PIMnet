@@ -1,6 +1,3 @@
-We provide an example of the output YUVs, which are available at https://pan.baidu.com/s/1wnZczgMauTfY25OnQo_z4Q (code:tgix)
-
-Test result for each test sequence:
 BasketballDrill_832x480_500.yuv
 ave ori [31.591] dB, enh [32.511] dB, delta [0.921] dB, aver_ssim=0.01657
 BasketballDrive_1920x1080_500.yuv
