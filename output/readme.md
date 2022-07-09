@@ -1,5 +1,5 @@
 # enhanced video demo
-We provide an example of the output YUVs, which are available [here] (https://pan.baidu.com/s/1wnZczgMauTfY25OnQo_z4Q) (code:tgix)
+We provide an example of the output YUVs, which are available [here](https://pan.baidu.com/s/1wnZczgMauTfY25OnQo_z4Q) (code:tgix)
 
 # Test result for each test sequence
 ```
