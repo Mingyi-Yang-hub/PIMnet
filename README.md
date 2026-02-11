@@ -15,10 +15,6 @@ Please download raw videos [here](https://github.com/RyanXingQL/MFQEv2.0/wiki/MF
 Please compress all video sequences by H.265/HEVC reference software HM16.5 under Low Delay P (LDP) configuration with QPs set to be 22, 27, 32 and 37.
 
 
-# Code
-The code will be released soon.
-
-
 # Quantitative performance evaluation
 This work only focus on Objective quality, so We adopt the incremental Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity (SSIM) to evaluate quality enhancement performance.
 
